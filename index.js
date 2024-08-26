@@ -34,5 +34,5 @@ program.command('count-words')
             }
           });
     })
-  
+
 program.parse();

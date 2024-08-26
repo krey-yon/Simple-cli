@@ -1,4 +1,93 @@
-hwllo hwllo
-worl
-d
-log
+Day 1: Calculator
+
+Build a basic calculator that performs addition, subtraction, multiplication, and division.
+Day 2: Digital Clock
+
+Create a digital clock that updates in real-time.
+Day 3: To-Do List
+
+Develop a to-do list app where users can add, edit, and delete tasks.
+Day 4: Countdown Timer
+
+Create a countdown timer that counts down from a specified time.
+Day 5: Quiz App
+
+Build a simple quiz application with multiple-choice questions.
+Day 6: Tip Calculator
+
+Create an app that calculates tips based on the bill amount and tip percentage.
+Day 7: Weather App (API Integration)
+
+Fetch weather data from an API and display it.
+
+Day 8: Modal Popup
+
+Create a modal popup that can be opened and closed.
+Day 9: Image Slider
+
+Build an image slider/carousel that loops through images.
+Day 10: Simple Form Validation
+
+Develop a form with validation (e.g., required fields, email format).
+Day 11: Currency Converter (API Integration)
+
+Create a currency converter using an API to get exchange rates.
+Day 12: Random Quote Generator
+
+Build a random quote generator that displays quotes from an array or API.
+Day 13: Drawing App
+
+Create a simple drawing app where users can draw on a canvas.
+Day 14: Palindrome Checker
+
+Develop a tool that checks if a given string is a palindrome.
+
+Day 15: Hangman Game
+
+Build a hangman game with word guessing functionality.
+Day 16: Tic-Tac-Toe Game
+
+Create a two-player Tic-Tac-Toe game.
+Day 17: Local Storage To-Do List
+
+Extend the to-do list app to save tasks in local storage.
+Day 18: Weather App with Local Storage
+
+Enhance the weather app by saving the last searched city in local storage.
+Day 19: Expense Tracker
+
+Build an app to track income and expenses with data persistence.
+Day 20: Rock, Paper, Scissors Game
+
+Create a Rock, Paper, Scissors game with a basic AI.
+Day 21: Memory Game
+
+Develop a memory matching card game.
+
+Day 22: Infinite Scroll
+
+Implement an infinite scroll feature to load more content dynamically.
+Day 23: Custom Video Player
+
+Build a custom video player with play, pause, volume, and progress controls.
+Day 24: Chat Application UI
+
+Design a simple chat application user interface (without backend).
+Day 25: Sticky Notes App
+
+Create a sticky notes app where users can add, move, and delete notes.
+Day 26: Music Player
+
+Build a music player with play, pause, and skip functionalities.
+Day 27: Expense Tracker with Charts
+
+Enhance the expense tracker with data visualization (e.g., charts).
+Day 28: Interactive Quiz with Timer
+
+Develop a quiz app that includes a timer for each question.
+Day 29: E-commerce Shopping Cart
+
+Create a simple e-commerce shopping cart that calculates totals.
+Day 30: Portfolio Website
+
+Build a portfolio website to showcase all your projects.
